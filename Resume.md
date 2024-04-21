@@ -31,9 +31,6 @@
 - **vipkid** &nbsp;&nbsp;&nbsp; 2018.12 - 2019.12
 - **敦煌网** &nbsp;&nbsp;&nbsp; 2017.6 - 2018.12
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
-- 本科，东北石油大学，计算机科学与技术专业，2013 - 2017
-
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 
@@ -89,6 +86,10 @@
     - 使用 Redis 作为缓存
     - 使用 nginx 反向代理服务，负载均衡
     - 使用 lua 脚本获取请求标识，通过nginx负载均衡转发到不同的服务
+
+
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+- 本科，东北石油大学，计算机科学与技术专业，2013 - 2017
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 - ★★★ Java
