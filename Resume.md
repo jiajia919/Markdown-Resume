@@ -26,7 +26,7 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **百度** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021.3 - 至今
+- **百度** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021.3 - 2024.4
 - **美团** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020.1 - 2021.3
 - **vipkid** &nbsp;&nbsp;&nbsp; 2018.12 - 2019.12
 - **敦煌网** &nbsp;&nbsp;&nbsp; 2017.6 - 2018.12
